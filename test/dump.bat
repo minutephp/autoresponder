@@ -1,0 +1,1 @@
+mysqldump -uroot -psan minute m_ar_broadcasts m_ar_campaigns m_ar_summary m_ar_lists m_ar_list_sqls m_ar_messages m_ar_queue m_user_groups m_mails m_mail_contents m_mail_unsubscribes users > Autoresponder.sql
